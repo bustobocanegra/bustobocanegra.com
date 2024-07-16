@@ -1,0 +1,10 @@
+# linux-specific files
+*~
+
+# macOS-specific files
+.DS_Store
+._*
+
+# Windows-specific files
+[Dd]esktop.ini
+Thumbs.db
